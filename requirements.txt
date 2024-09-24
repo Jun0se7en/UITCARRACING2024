@@ -1,0 +1,8 @@
+protobuf==3.19.6
+numpy==1.19.4
+onnx==1.10.0
+seaborn
+tqdm
+psutil
+pycuda==2019.1.2
+pytorch-quantization
